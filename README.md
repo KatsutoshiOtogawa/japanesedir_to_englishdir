@@ -1,0 +1,2 @@
+# japanesedir_to_englishdir
+日本語名のデスクトップのディレクトリを英語に変える方法です。
